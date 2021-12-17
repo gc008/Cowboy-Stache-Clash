@@ -1,0 +1,52 @@
+h1 {
+	color: #fff01f;
+	font-size: 52pt;
+	font-family: Copperplate, Calibri, Arial;
+	font-stretch: 15px;
+	font-weight: bold;
+	background-color: black;
+	padding-top: 20px;
+}
+
+h2 {
+	color: red;
+	font-weight: bold;
+	font-family: Calibri, Arial, sans-serif;
+	font-size: 18pt;
+	padding-bottom: 15px;
+
+}
+
+h3 {
+	color: #ff2200;
+	font-weight: bold;
+	font-family: Copperplate, Courier;
+	font-size: 32pt;
+
+}
+
+div {
+	alignment-baseline: left;
+	line-height: .5em;
+	text-indent: 350px;
+
+}
+
+body {
+	background-color: #e6a647;
+
+}
+
+p {
+	color: white;
+	font-size: 14pt;
+}
+
+video {
+	align-content: center;
+	
+}
+
+img {
+	align-content: center;
+}
